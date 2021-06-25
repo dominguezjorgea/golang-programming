@@ -1,1 +1,1 @@
-# project
+# Go training examples
